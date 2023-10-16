@@ -1,0 +1,14 @@
+.file-display-container {
+    margin-top: 10px;
+}
+
+.remove-file-icon {
+    padding-left: 5px;
+    color: var(--red);
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.remove-file-icon:hover {
+    color: var(--darkRed);
+}

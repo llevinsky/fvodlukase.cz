@@ -1,0 +1,102 @@
+#kontakt {
+    margin: 5vh auto 5vh auto;
+}
+
+#kontakt h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#form {
+    width: 100%;
+    max-width: 450px;
+    margin: auto auto 10vh auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+#form button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 600;
+    background-color: var(--orange);
+    border: none;
+    border-radius: 4px;
+}
+
+#form button:hover {
+    background-color: var(--lightOrange);
+}
+
+.input-control {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-control label {
+    margin-bottom: 5px;
+}
+
+.input-control input,
+.input-control textarea {
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    font-size: 12px;
+    padding: 10px;
+    width: 100%;
+}
+
+.input-control input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 2px solid #f0f0f0;
+    background-color: #00168a;
+    color: var(--white);
+    text-align: center;
+    border-radius: 4px;
+    display: block;
+    font-size: 12px;
+    padding: 10px;
+    width: 100%;
+    max-width: 180px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.custom-file-upload:hover {
+    background-color: var(--lightBlue);
+}
+
+.input-control input:focus,
+.input-control textarea:focus {
+    outline: 0;
+}
+
+.input-control.success input,
+.input-control.success textarea {
+    border-color: var(--green);
+}
+
+.input-control.error input,
+.input-control.error textarea {
+    border-color: var(--red);
+}
+
+.input-control .error {
+    color: var(--red);
+    font-size: 12px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+
+.error-message {
+    color: red;
+}
