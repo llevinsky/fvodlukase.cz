@@ -17,7 +17,7 @@ const TITLE = 'FVodLukáše - Bytové domy';
             Delectus consectetur dolore iste laborum repellendus possimus fuga hic quam reiciendis nihil harum alias dolorem aut magni, accusamus deleniti suscipit ad! Tempora, culpa aliquid? Recusandae modi laborum culpa vel commodi!
             Modi, quidem asperiores. Omnis adipisci voluptatem iusto debitis ea fuga pariatur sunt, deleniti ex eveniet eligendi temporibus odio quas. Ad adipisci veritatis, iusto sequi illum inventore tenetur delectus repudiandae! Tenetur.
             Dolorem enim dolorum voluptas, quia, illo in reprehenderit odit provident placeat, nostrum temporibus possimus officia facere nulla! Natus odio eos quo, consectetur sequi, hic voluptatem aspernatur similique temporibus inventore dolor.
-            Soluta, eum laboriosam hic veniam error facilis quod officia at beatae? Optio est tempore iste nemo aperiam in aliquam labore, soluta impedit quidem ducimus voluptas dignissimos velit maiores, consequuntur officiis!</p>
+            Soluta, en eum laboriosam hic veniam error facilis quod officia at beatae? Optio est tempore iste nemo aperiam in aliquam labore, soluta impedit quidem ducimus voluptas dignissimos velit maiores, consequuntur officiis!</p>
 
     </main>
 </div>
